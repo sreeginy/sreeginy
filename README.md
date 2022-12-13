@@ -10,13 +10,11 @@ I am an undergraduate who is, enthusiastic and active, to learn more about softw
 I am a fast learner and seeking a challenging software development.
 
 
-Professional Skills are HTML5 | C++ | PHP | CSS | MYSQL | JAVA | PYTHON | BOOTSTRAP-4 | JAVASCRIPT | LARAVEL-8 | Android Studio | SQLite | Flutter
+Professional Skills are HTML5  | C++  | PHP  | CSS  | MYSQL  | JAVA  | PYTHON  | BOOTSTRAP-4  | JAVASCRIPT  | LARAVEL-8  | Android Studio  | SQLite  | Flutter 
 
 Frameworks & Libraries - LARAVEL-8 
 
 Tools &IDEs - Visual Studio | Android Studio | Figma | NetBeans | MS Office
-
-I know some Programming languages are HTML,PHP, C++, CSS, MySQL, Java, Python etc.
 
 Project based experience are : 
 
