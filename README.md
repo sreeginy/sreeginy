@@ -33,7 +33,6 @@ Project based experience are :
     Technologies : Android SDK | Java | SQLite
 
 That's all about me!
-Thank Youuu!
 
 <!---
 sreeginy/sreeginy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
