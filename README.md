@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Giny 
+- 👋🏻 Hi, I’m @Giny 
 - 👀 I’m interested in User interface (UI) and user experience (UX) development.
 - 🌱 I’m currently learning React.js is frontend framework, Spring Boot is backend framework and Android Studio is best native,kotlin,Flutter app development.
 - 💞️ I’m looking to collaborate on  Android application. I fall in love with Android
