@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js is frontend framework, Spring Boot is backend framework and Android Studio is best native,kotlin,Flutter app development.
 - 💞️ I’m looking to collaborate on  Android application. I fall in love with Android
 - 📫 My strength is that i can dapt quickly to any environment.
-- 👩‍🎓 Presently i'm following Computer Science  Software Engineering at Kingston University in Colombo.
+- 👩🏻‍🎓 Presently i'm following Computer Science  Software Engineering at Kingston University in Colombo.
 I have done Information Technology in the stream of higher National Diploma - HNDIT in Advanced Technological Institute - Jaffna. 
 
 I am an undergraduate who is, enthusiastic and active, to learn more about software engineering skills to improve my skills towards IT and I can manage to breathe under stress effectively. 
